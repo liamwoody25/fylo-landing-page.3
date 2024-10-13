@@ -61,6 +61,10 @@ li {
     text-decoration: none;
 }
 
+li a:hover {
+    color: #6C9BFF;
+}
+
 /*****  icons  *****/
 
 .icons {
