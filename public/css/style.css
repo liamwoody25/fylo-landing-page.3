@@ -536,10 +536,7 @@ body {
         width: 100%;
    }
 
-
-
     .sub-footer {
-        margin-top: ;
         display: flex;
         flex-direction: column;
     }
